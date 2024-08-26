@@ -1,2 +1,2 @@
-# cop
+# cot
 cup of tea
